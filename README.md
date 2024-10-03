@@ -1,0 +1,1 @@
+This project is an interactive application that allows users to add items to a virtual board in real time. Users can select one of the predefined items and click on the canvas to add it to the board. The additions are instantly reflected to all users.
